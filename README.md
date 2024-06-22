@@ -21,4 +21,6 @@ MPR on OOPs
   
 The chat application was developed using the C++ programming language, which is known for its high performance and control over system resources. The application uses socket programming to establish a connection between the client and the server, allowing users to communicate with each other in real-time. The development process was facilitated by using a text editor and a compiler, which enabled the writing, debugging, and building of the application. 
 The development of the chat application provided valuable insights into the world of network programming and software development, highlighting the importance of choosing the right tools and technologies for achieving project goals efficiently and effectively.
+
+
 ![WhatsApp Image 2024-06-22 at 9 02 41 AM](https://github.com/7-atharva/ChatRoom-using-C-/assets/111700367/09b45ff7-ea3a-41f3-8c5d-ab486e295a30)
