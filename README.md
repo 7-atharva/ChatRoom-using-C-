@@ -4,16 +4,16 @@ MPR on OOPs
                           * Client Initialization:
 * Clients create sockets and connect to the server on a designated port.
 * Clients might send identification information and choose a chat name.
-* 
+ 
                           * Sending Messages:
 * Clients compose messages and package them with sender information.
 * Clients send message packets to the server using the established connection.
-* 
+ 
                           * Server as a Hub:
 * The server receives messages from clients and unpacks the content.
 * The server broadcasts the received message (including sender and content) to all connected clients.
-* 
-                          * Client Receives and Displays:
+ 
+                      * Client Receives and Displays:
 * Clients listen for data on their connections and unpack received messages.
 * Clients display the message content with the sender's chat name in the chat window.
   
